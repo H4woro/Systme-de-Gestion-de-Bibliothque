@@ -1,0 +1,52 @@
+[
+    {
+        "titre": "One Piece",
+        "auteur": "Eiichiro Oda",
+        "annee_publication": "1997"
+    },
+    {
+        "titre": "Attack on Titan",
+        "auteur": "Hajime Isayama",
+        "annee_publication": "2009"
+    },
+    {
+        "titre": "Death Note",
+        "auteur": "Tsugumi Ohba",
+        "annee_publication": "2003"
+    },
+    {
+        "titre": "Fullmetal Alchemist",
+        "auteur": "Hiromu Arakawa",
+        "annee_publication": "2001"
+    },
+    {
+        "titre": "Dragon Ball",
+        "auteur": "Akira Toriyama",
+        "annee_publication": "1984"
+    },
+    {
+        "titre": "My Hero Academia",
+        "auteur": "Kohei Horikoshi",
+        "annee_publication": "2014"
+    },
+    {
+        "titre": "Bleach",
+        "auteur": "Tite Kubo",
+        "annee_publication": "2001"
+    },
+    {
+        "titre": "Sailor Moon",
+        "auteur": "Naoko Takeuchi",
+        "annee_publication": "1991"
+    },
+    {
+        "titre": "Tokyo Ghoul",
+        "auteur": "Sui Ishida",
+        "annee_publication": "2011"
+    },
+    {
+        "titre": "Naruto",
+        "auteur": "Masashi Kishimoto",
+        "annee_publication": "1999"
+    }
+]

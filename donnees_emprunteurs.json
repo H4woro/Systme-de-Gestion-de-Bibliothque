@@ -1,0 +1,27 @@
+[
+    {
+        "nom": "Alice",
+        "numero_didentification": "12345",
+        "contact": "alice@example.com"
+    },
+    {
+        "nom": "Bob",
+        "numero_didentification": "67890",
+        "contact": "bob@example.com"
+    },
+    {
+        "nom": "Charlie",
+        "numero_didentification": "54321",
+        "contact": "charlie@example.com"
+    },
+    {
+        "nom": "David",
+        "numero_didentification": "09876",
+        "contact": "david@example.com"
+    },
+    {
+        "nom": "Emma",
+        "numero_didentification": "13579",
+        "contact": "emma@example.com"
+    }
+]
